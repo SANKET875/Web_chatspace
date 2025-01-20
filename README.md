@@ -1,0 +1,1 @@
+Developed a Real time Chat based Application using Node.js Express.js Websockets and Socket.io library having features like creating a chat room and Joining a Chat room. and communicate with all the users in the chatroom.
